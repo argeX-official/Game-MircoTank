@@ -12,12 +12,12 @@ There is no original README file released by the developer.
 
 ## **License**
 
-This project has been released under the MIT License by it's developer.
+This project has been released under the Apache V2.0 License by it's developer.
 
 The full document can be found in the [LICENSE][5] file.
 
 [1]: https://github.com/hartmann1301
 [2]: https://github.com/hartmann1301/MircoTank
-[3]: Orijinal-Readme
-[4]: watchX-Hex
-[5]: Lisans
+[3]: https://github.com/argeX-official/Game-MircoTank/blob/master/OLD_README.md
+[4]: https://github.com/argeX-official/Game-MircoTank/releases
+[5]: https://github.com/argeX-official/Game-MircoTank/blob/master/LICENSE
