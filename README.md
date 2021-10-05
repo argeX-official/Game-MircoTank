@@ -1,6 +1,6 @@
 ## **Micro Tank**
 
-<img src="MicroTankExample2.gif" width="100%"><br/>
+<img src="MicroTankExample2.gif" width="30%"><br/>
 
 This project has been developed by [hartmann1301][1] and forked directly from [ MircoTank][2].
 
